@@ -1,1 +1,1 @@
-# This code provide how you can build RestAPIi in Flask Application on Mongodb Database
+# This code provide how you can build RestAPI in Flask Application on Mongodb Database
